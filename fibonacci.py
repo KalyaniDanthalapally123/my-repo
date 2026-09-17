@@ -1,3 +1,4 @@
+
 n = int(input("Enter the number of terms: "))
 
 a = 0
@@ -6,3 +7,5 @@ b = 1
 for i in range(n):
     print(a)
     a, b = b, a + b
+
+# adding some extra data to the file
